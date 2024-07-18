@@ -38,7 +38,7 @@
 ## Usage
 
 - Used NodeJS for creating server
-- USed Express to make use of miidleware betwwen request body and user data
+- Used Express to make use of middleware between request body and user data
 - Used MongoDB to store the data of user/client
 - Used JWT for secret token or access tokens to authorize the client data from any unauthorized user.
 
